@@ -18,8 +18,8 @@ are searched for DICOM-files. These files will then be converted to NIfTI format
 be properly named, moved to a target-directory and sorted in subdirectories according to their type (anatomical, functional, 
 or DTI).
 
- ## log_roi_batch v2.0
+ ## log\_roi\_batch v2.0
 
-log_roi_batch creates tables of mean or standard deviation for regions of interest (ROIs) or counts voxels with values within 
+log\_roi\_batch creates tables of mean or standard deviation for regions of interest (ROIs) or counts voxels with values within 
 a given range. Voxel exclusion criteria can be specified, which can also be used to count the number of included or excluded 
 voxels within a given value range.
