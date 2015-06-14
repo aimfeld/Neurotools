@@ -1,5 +1,9 @@
 # Neurotools
-A couple of Matlab scripts for SPM5 / SPM8.
+A couple of Matlab scripts for SPM5 / SPM8. This code is not maintained anymore by the author.
+
+## Project Website
+
+- [Neurotools](http://aimfeld.ch/neurotools/neurotools.html)
 
 ## spmbatch v3.3
 
